@@ -39,7 +39,7 @@ namespace QueenPuzzleQuestion
             // 輸出最後結果
             for (int i = 0; i < this.lstTotalSolutions.Count; i++)
             {
-                Console.WriteLine($"Solution {i+1}"); ;
+                Console.WriteLine($"// Solution {i+1}"); ;
                 
                 for (byte x = 0; x < dimension; x++)
                 {
