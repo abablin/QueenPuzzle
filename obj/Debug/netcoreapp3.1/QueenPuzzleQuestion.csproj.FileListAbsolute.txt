@@ -1,0 +1,13 @@
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\bin\Debug\netcoreapp3.1\QueenPuzzleQuestion.exe
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\bin\Debug\netcoreapp3.1\QueenPuzzleQuestion.deps.json
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\bin\Debug\netcoreapp3.1\QueenPuzzleQuestion.runtimeconfig.json
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\bin\Debug\netcoreapp3.1\QueenPuzzleQuestion.runtimeconfig.dev.json
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\bin\Debug\netcoreapp3.1\QueenPuzzleQuestion.dll
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\bin\Debug\netcoreapp3.1\QueenPuzzleQuestion.pdb
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\obj\Debug\netcoreapp3.1\QueenPuzzleQuestion.csprojAssemblyReference.cache
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\obj\Debug\netcoreapp3.1\QueenPuzzleQuestion.AssemblyInfoInputs.cache
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\obj\Debug\netcoreapp3.1\QueenPuzzleQuestion.AssemblyInfo.cs
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\obj\Debug\netcoreapp3.1\QueenPuzzleQuestion.csproj.CoreCompileInputs.cache
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\obj\Debug\netcoreapp3.1\QueenPuzzleQuestion.dll
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\obj\Debug\netcoreapp3.1\QueenPuzzleQuestion.pdb
+C:\Programs\Console\QueenPuzzleQuestion\QueenPuzzleQuestion\obj\Debug\netcoreapp3.1\QueenPuzzleQuestion.genruntimeconfig.cache
